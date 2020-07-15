@@ -1,2 +1,3 @@
 # FirstStepsInJava
-Beginner tasks
+
+Tasks for beginners in my first steps from the course CodeAcademy.bg
